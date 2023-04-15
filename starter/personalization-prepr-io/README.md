@@ -59,6 +59,9 @@ yarn
 yarn dev
 ```
 
+To see the personalization based on the visitor's location you need to deploy the app to Vercel.
+For this example on local development the US is set as default.
+
 ### Create your own page
 
 To create your own page you'll need a [Prepr](https://signup.prepr.io?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples) environment.
