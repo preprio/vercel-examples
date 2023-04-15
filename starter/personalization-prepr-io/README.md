@@ -38,7 +38,7 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 ```bash
 pnpm create next-app --example https://github.com/vercel/examples/tree/main/starter/personalization-prepr-io prepr-personalization
 # or
-npx create next-app --example https://github.com/vercel/examples/tree/main/starter/personalization-prepr-io prepr-personalization
+npx create-next-app --example https://github.com/vercel/examples/tree/main/starter/personalization-prepr-io prepr-personalization
 # or
 yarn create next-app --example https://github.com/vercel/examples/tree/main/starter/personalization-prepr-io prepr-personalization
 ```
